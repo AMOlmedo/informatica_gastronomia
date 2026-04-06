@@ -48,8 +48,8 @@ Alertas de faltantes
 Un ERP Gastronómico (Enterprise Resource Planning) es un software de gestión integral que centraliza todas las áreas de un negocio de alimentos y bebidas en una sola plataforma
 Más completo, usado por negocios más grandes.
 
-ERP Odoo
-SAP Business One
+# ERP Odoo
+# SAP Business One
 es un sistema de planificación de recursos empresariales (ERP) diseñado específicamente para pequeñas y medianas empresas (PyMEs).
 
 👉 Incluye:
@@ -65,11 +65,11 @@ Contabilidad
 
 Muy relevantes hoy:
 
-PedidosYa
+## PedidosYa
 
-Rappi
+## Rappi
 
-Uber Eats
+## Uber Eats
 
 👉 Permiten:
 
@@ -82,9 +82,9 @@ Integrarse con POS
 
 Para restaurantes más organizados.
 
-OpenTable
+## OpenTable
 
-TheFork
+## TheFork
 
 👉 Funciones:
 
@@ -98,9 +98,9 @@ Base de clientes
 
 Más enfocado en chefs y cocina profesional.
 
-ChefTec
+## ChefTec
 
-Paprika Recipe Manager
+## Paprika Recipe Manager
 
 👉 Sirven para:
 
@@ -111,9 +111,9 @@ Controlar costos por plato
 
 Hoy es clave para cualquier emprendimiento gastronómico.
 
-Instagram
-Facebook
-Canva
+## Instagram
+## Facebook
+## Canva
 
 👉 Usos:
 
