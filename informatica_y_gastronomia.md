@@ -1,10 +1,12 @@
-#  LA INFORMATICA  Y GASTRONOMIA #
+#  INFORMATICA  Y GASTRONOMIA #
 
-🍽️ 1. Sistemas de Punto de Venta (POS)
+🍽️ 1. Sistemas de Punto de Venta (Point Of Sale)
 
 Son EL corazón digital de cualquier restaurante.
+son sowtware de Applicacion que nos ayudan a administrar nuestro core:
 
-Es una plataforma todo-en-uno diseñada exclusivamente para el sector de alimentos y bebidas. Es ideal para establecimientos con mucho volumen o múltiples ubicaciones
+Algunos ejemplos son:
+
 1.- Toast POS
     Es una plataforma todo-en-uno diseñada exclusivamente para el sector de alimentos y bebidas. 
     Es ideal para establecimientos con mucho volumen o múltiples ubicaciones
@@ -42,6 +44,8 @@ Costeo de platos
 Alertas de faltantes
 
 💡 Cómo impacta directo en la rentabilidad ??
+
+??
 
 📊 3. Gestión administrativa / ERP gastronómico
 
