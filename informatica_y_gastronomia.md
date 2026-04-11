@@ -1,6 +1,6 @@
 #  INFORMATICA  Y GASTRONOMIA #
 
-🍽️ 1. Sistemas de Punto de Venta (Point Of Sale)
+🍽️ 1. Sistemas de Punto de Venta (POS - Point Of Sale)
 
 Son EL corazón digital de cualquier restaurante.
 son sowtware de Applicacion que nos ayudan a administrar nuestro core:
@@ -9,19 +9,25 @@ Algunos ejemplos son:
 
 1.- Toast POS
     Es una plataforma todo-en-uno diseñada exclusivamente para el sector de alimentos y bebidas. 
-    Es ideal para establecimientos con mucho volumen o múltiples ubicaciones
+    Es ideal para establecimientos con mucho volumen o múltiples ubicaciones.
+
 2.- Square for Restaurants
     Es la versión especializada en hostelería del popular sistema Square. 
-    Es la opción preferida para negocios nuevos, cafeterías o food trucks que buscan rapidez y bajos costos iniciale
+    Es la opción preferida para negocios nuevos, cafeterías o food trucks que buscan rapidez y bajos costos iniciale.
+
 3.- Lightspeed Restaurant
     Es un sistema altamente personalizable que destaca por su capacidad de integración y potencia analítica.
 
 👉 ¿Para qué sirven?
 
-Tomar pedidos
-Cobrar (efectivo, tarjeta, QR)
-Controlar ventas
-Integrarse con cocina
+Tomar pedidos.
+
+Cobrar (efectivo, tarjeta, QR).
+
+Controlar ventas.
+
+Integrarse con cocina.
+
 
 💡 Esto es lo primero que ven los mozos/cajeros.
 
